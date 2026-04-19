@@ -1,1 +1,5 @@
 # Compiler-design
+
+NAME: ADITYA MOHAN 
+REG.NO.: RA2311003050315
+CSE E
